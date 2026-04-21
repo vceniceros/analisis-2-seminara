@@ -389,3 +389,4 @@ entonces, las rectas tangentes a la superficie en el punto (u0, v0) se pueden de
 ```math
 \mathbf{r}(t) = \mathbf{X}(u_0, v_0) + t \mathbf{X}_v(u_0, v_0)
 ```
+
